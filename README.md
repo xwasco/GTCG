@@ -13,11 +13,7 @@ Sebastiano Vascon, Zemene Eyasu, Marco Cristani, Hayley Hung, Marcello Pelillo, 
 *In Asian Conference on Computer Vision (ACCV), 2014*
 
 ##ADDITIONAL LIBS
-We also provide with our package some additional libraries we used in our method. 
-- Maximally Stable Colour Regions (addLibs/mscr) http://www.cs.ubc.ca/~perfo/software/
-- CVlab (addLibs/CVlab_0.2) http://profs.sci.univr.it/~fusiello/teaching/visione/
-- Local Binary Pattern (addLibs/LBP) http://www.scholarpedia.org/article/Local_Binary_Patterns
-- GMM clustering (addLibs/SandG)
+We also provide with our package some additional libraries that are used in the detector. 
 
 ##BIBTEX
 @article{vascon2016detecting,
