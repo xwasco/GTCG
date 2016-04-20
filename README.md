@@ -1,6 +1,7 @@
 GTCG
+Game Theoretic Conversational Groups detector
 =====
-In this repository you can find the more updated version of the Matlab code for the game-theoretic conversation group detector. 
+In this repository you can find the more updated version of the Matlab code for the game-theoretic conversational group detector. 
 The following papers are implemented:
 
 **Detecting conversational groups in images and sequences: A robust game-theoretic approach**
