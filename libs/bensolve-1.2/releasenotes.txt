@@ -1,0 +1,9 @@
+11-09-05 bensolve-1.0 
+11-12-08 bensolve-1.1
+   bug in alg3 fixed (concerning problems with more than 3 objectives)
+   thanks to Maryam Hassannasab for report
+12-11-26 bensolve-1.2
+   bug in alg1 and alg2 fixed (prevents infinite loops in some examples)
+   thanks to Maryam Hassannasab for report 
+   several minor changes 
+    
