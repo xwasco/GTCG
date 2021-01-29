@@ -70,7 +70,9 @@ double CalcNodeWeight(double * matrix,int n,int m, std::vector<int> S, int id)
 void mexFunction(int nlhs,mxArray *plhs[],int nrhs,const mxArray *prhs[])
 {
     /* Variables */
-    const int *dim_array, *dim_G;
+    const mwSize *dim_array, *dim_G;
+    //mwSize* dim_array;
+    //mwSize* dim_G;
     int r, c, m, n;
     double *w, *A, *i, *G; 
             
